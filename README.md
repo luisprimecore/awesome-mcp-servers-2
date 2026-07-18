@@ -530,3 +530,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stephen Akinyemi](https://github.com/appcypher) has waived all copyright and related or neighboring rights to this work.
+
+## LuisCore Chorus Field
+
+- [luisprimecore/chorus-field-mcp](https://github.com/luisprimecore/chorus-field-mcp) [![luisprimecore/chorus-field-mcp MCP server](https://glama.ai/mcp/servers/luisprimecore/chorus-field-mcp/badges/score.svg)](https://glama.ai/mcp/servers/luisprimecore/chorus-field-mcp) 📇 ☁️ — Inference-scale agent bootstrap + MCP for federated reasoning (`npx @luiscore/chorus-field@latest`); live https://luiscore.com/mcp
